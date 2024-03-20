@@ -1,4 +1,4 @@
-This port allows server admins to disable the end in Minecraft Fabric.
+This mod allows server admins to disable the end in Minecraft Fabric.
 
 Use `/gamerule doDisableEnd <true|false>` to toggle the rule
 
